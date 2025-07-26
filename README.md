@@ -1,2 +1,2 @@
 # Lohnsud
-process of a brewers
+process in a brewery
